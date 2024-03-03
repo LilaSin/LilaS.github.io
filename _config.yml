@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: hexo
+title: ‘LilaS博客’
 subtitle: ''
-description: ''
+description: '欢迎访问'
 keywords:
-author: John Doe
-language: en
+author: LilaS
+language: zh-CN
 timezone: ''
 
 # URL
