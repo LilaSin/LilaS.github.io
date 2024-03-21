@@ -646,8 +646,7 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://s1.imagehub.cc/images/2024/03/21/c89d711633b8e8d54a0924b5d3239ece.png)
-
+background: 
 # Footer Background
 footer_bg: false
 
@@ -916,7 +915,7 @@ css_prefix: true
 inject:
   head:
   # 自定义css
-    - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
   bottom:
     # - <script src="xxxx"></script>
 
